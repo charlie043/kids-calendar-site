@@ -1,6 +1,6 @@
 # サポート
 
-「こどもカレンダー」についてのご質問・不具合のご報告は、下記のフォームからお送りください。
+「こども週間カレンダー」についてのご質問・不具合のご報告は、下記のフォームからお送りください。
 
 - [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLScqBibt6fdyoGDZAXnlAKwO7SB3HSFdgUB6rxVVo0UyoOaxfg/viewform)
 
